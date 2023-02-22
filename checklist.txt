@@ -1,9 +1,7 @@
 Number
 Title
-Description
 Severity
-[A[A[B[C[C[C[C[C[C[A[C[C[C[C[C[C[C[[C[C[D[D[D[A[C[C[C[C[C[
-[3~[3~[3~[3~[3~[3~Steps
+Steps
 Expected result
 Actual result
 Comments
