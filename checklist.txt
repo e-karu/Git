@@ -1,0 +1,7 @@
+Number
+Title
+Severity
+Steps
+Expected result
+Actual result
+Comments
